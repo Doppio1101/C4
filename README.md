@@ -1,2 +1,3 @@
-# csStudy
-CS 스터디
+# CS 뽀개기
+
+> CS 스터디
