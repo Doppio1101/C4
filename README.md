@@ -17,3 +17,4 @@
 | 5주차 | 김신아 | [Network_3](https://github.com/Doppio1101/C4/blob/1073d1c7b7abb040f2ce0329293f053971e4ddad/Week5/Network_3.pdf)                                                                                        |
 |       |        |                                                                                                                                                                                                        |
 |       | 임 혁  | [JAVA - 래퍼 클래스, 문자열 클래스, Call By Value, Thread-Safe](<./Week5/JAVA(Wrapper,String,CallBy,Thread-safe).pdf>)                                                                                 |
+| 6주차 | 조은지 | [JVM 메모리 구조와 가비지 ](https://github.com/Doppio1101/C4/blob/main/Week6/JVM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0.pdf)                                                                                 |
