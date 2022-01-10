@@ -14,6 +14,6 @@
 |       | 장정훈 | [네이티브 웹, 웹 앱, 하이브리드 웹](https://github.com/Doppio1101/C4/blob/main/Week3/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%9B%B9%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.pdf) |
 | 4주차 | 조은지 | [REST,RESTful,REST API(RESTful API)](<https://github.com/Doppio1101/C4/blob/main/Week4/REST%2CRESTful%2CREST%20API(RESTful%20API).pdf>)                                                                |
 |       | 김현수 | [프로세스와 스레드](https://github.com/Doppio1101/C4/blob/main/Week4/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.pdf)                                                  |
-| 5주차 | 김신아 | [Network_3.pdf](https://github.com/Doppio1101/C4/files/7838368/Network_3.pdf)                                                                                                                          |
+| 5주차 | 김신아 | [Network_3.pdf](https://github.com/Doppio1101/C4/blob/1073d1c7b7abb040f2ce0329293f053971e4ddad/Week5/Network_3.pdf)                                                                                    |
 |       |        |                                                                                                                                                                                                        |
 |       | 임 혁  | [JAVA - 래퍼 클래스, 문자열 클래스, Call By Value, Thread-Safe](<./Week5/JAVA(Wrapper,String,CallBy,Thread-safe).pdf>)                                                                                 |
