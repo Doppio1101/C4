@@ -16,7 +16,7 @@
 |  | 임 혁  | [JAVA - 래퍼 클래스, 문자열 클래스, Call By Value, Thread-Safe](<./Week5/JAVA(Wrapper,String,CallBy,Thread-safe).pdf>) |
 | 6주차 | 조은지 | [JVM 메모리 구조와 가비지 ](https://github.com/Doppio1101/C4/blob/main/Week6/JVM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0.pdf) |
 |  |김현수 |[쓰레드 동기화](./Week6/쓰레드%20동기화.pdf)|
-|7주차 | 김신아| [Google.com을 입력하면..?](./Week7/search_googlecom.pdf)  |
+|7주차 | 김신아| [Google.com을 입력하면..?](./Week7/search_google_com.pdf)  |
 | |장정훈 | [인증방식](./Week7/인증방식.pdf) |
 | |임  혁 | [디자인 패턴](./Week7/디자인%20패턴.pdf)|
 
