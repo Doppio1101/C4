@@ -19,3 +19,62 @@
 |       | 임 혁  | [JAVA - 래퍼 클래스, 문자열 클래스, Call By Value, Thread-Safe](<./Week5/JAVA(Wrapper,String,CallBy,Thread-safe).pdf>) |
 | 6주차 | 조은지 | [JVM 메모리 구조와 가비지 ](https://github.com/Doppio1101/C4/blob/main/Week6/JVM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%ED%84%B0.pdf) |
 
+## :smile: Member
+<table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tomy9729">
+          <img src="https://avatars.githubusercontent.com/u/52230306?v=4" alt="김현수 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Doppio1101">
+          <img src="https://avatars.githubusercontent.com/u/74235048?v=4" alt="장정훈 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dodssockii">
+          <img src="https://avatars.githubusercontent.com/u/67838161?v=4" alt="김신아 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dmswl0311">
+          <img src="https://avatars.githubusercontent.com/u/48826021?v=4" alt="조은지 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Hyuk9606">
+          <img src="https://avatars.githubusercontent.com/u/87606735?v=4?v=4" alt="임혁 프로필" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tomy9729">
+          김현수<br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Doppio1101">
+          장정훈<br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dodssockii">
+          김신아<br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dmswl0311">
+          조은지<br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Hyuk9606">
+          임혁<br />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
