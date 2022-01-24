@@ -20,7 +20,7 @@
 | |장정훈 | [인증방식](./Week7/인증방식.pdf) |
 | |임  혁 | [디자인 패턴](./Week7/디자인%20패턴.pdf)|
 |8주차 | 김현수| [페이지](./Week8/.pdf)  |
-| |조은지 | [](./Week8/.pdf) |
+| |조은지 | [데이터베이스 index](https://github.com/Doppio1101/C4/blob/main/Week8/CSstudy%208%EC%A3%BC%EC%B0%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20index.pdf) |
 
 
 
