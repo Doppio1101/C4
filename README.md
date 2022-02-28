@@ -25,6 +25,9 @@
 |  |장정훈 | [대체불가능토큰](https://github.com/Doppio1101/C4/blob/main/Week9/%EB%8C%80%EC%B2%B4%20%EB%B6%88%EA%B0%80%EB%8A%A5%20%ED%86%A0%ED%81%B0.pdf) |
 |  |임  혁 | [Java Reflection](./Week9/Java%20Reflection.md) |
 |10주차 | 조은지 | [서버사이드 렌더링과 클라이언트사이드 렌더링](https://github.com/Doppio1101/C4/blob/main/Week10/CSstudy%2010%EC%A3%BC%EC%B0%A8%20SSR%2CCSR.pdf)  |
+|11주차 | 김신아 | [Origin_and_Site](./Week11/Origin_and_Site.pdf) |
+| | 장정훈 |  |
+| | 임  혁 |  |
 
 
 ## :smile: Member
