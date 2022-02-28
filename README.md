@@ -1,5 +1,9 @@
 # CS 뽀개기 C4
 
+<p align="center">
+    <img src="https://github.com/Doppio1101/C4/blob/main/img/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84.PNG?raw=true" width="500"/>
+</p>
+
 ## 🐱 소개
 기본 CS 지식을 공부하고, 기술 면접을 대비하기 위해 SSAFY 6기생들이 만든 CS 스터디입니다.
 <br>
