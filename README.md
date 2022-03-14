@@ -40,6 +40,7 @@
 |11주차 | 김신아 | [Origin_and_Site](./Week11/Origin_and_Site.pdf) |
 | | 장정훈 | [MSA와 Monolithic](https://github.com/Doppio1101/C4/blob/main/Week11/MSA%EC%99%80%20Monolithic.pdf) |
 | | 임  혁 | [Literal & Copy](./Week11/literal%20&%20Copy.pptx)|
+|12주차 | 조은지 | [WebSocket](https://github.com/Doppio1101/C4/blob/main/Week12/CSstudy%2012%EC%A3%BC%EC%B0%A8%20Web%20Socket.pdf)  |
 
 
 ## :smile: Member
