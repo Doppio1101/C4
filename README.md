@@ -1,5 +1,17 @@
 # CS 뽀개기 C4
 
+<p align="center">
+    <img src="https://github.com/Doppio1101/C4/blob/main/img/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84.PNG?raw=true" width="500"/>
+</p>
+
+## 🐱 소개
+기본 CS 지식을 공부하고, 기술 면접을 대비하기 위해 SSAFY 6기생들이 만든 CS 스터디입니다.
+<br>
+
+## :fire: 스터디 Rule
+- 주 1회(월) 발표 진행
+- 격주로 주제를 선정하여 발표
+
 ## :speaker: 주차별 발표내용
 | 주차 | 발표자 | 내용                                                         |
 |--| ------ | ------------------------------------------------------------ |
@@ -27,7 +39,8 @@
 |10주차 | 조은지 | [서버사이드 렌더링과 클라이언트사이드 렌더링](https://github.com/Doppio1101/C4/blob/main/Week10/CSstudy%2010%EC%A3%BC%EC%B0%A8%20SSR%2CCSR.pdf)  |
 |11주차 | 김신아 | [Origin_and_Site](./Week11/Origin_and_Site.pdf) |
 | | 장정훈 | [MSA와 Monolithic](https://github.com/Doppio1101/C4/blob/main/Week11/MSA%EC%99%80%20Monolithic.pdf) |
-| | 임  혁 |  |
+| | 임  혁 | [Literal & Copy](./Week11/literal%20&%20Copy.pptx)|
+|12주차 | 조은지 | [WebSocket](https://github.com/Doppio1101/C4/blob/main/Week12/CSstudy%2012%EC%A3%BC%EC%B0%A8%20Web%20Socket.pdf)  |
 
 
 ## :smile: Member
@@ -87,5 +100,16 @@
       </td>
     </tr>
   </table>
-
-  <br />
+  
+## :octocat: Git Convention
+```
+feat: 새로운 기능에 대한 커밋
+fix: 버그 수정에 대한 커밋
+build: 빌드 관련 파일 수정에 대한 커밋
+chore: 그 외 자잘한 수정에 대한 커밋
+ci: CI 관련 설정 수정에 대한 커밋
+docs: 문서 수정에 대한 커밋
+style: 코드 스타일 혹은 포맷 등에 관한 커밋
+refactor: 코드 리팩토링에 대한 커밋
+test: 테스트 코드 수정에 대한 커밋
+```
