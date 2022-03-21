@@ -43,6 +43,10 @@
 |12주차 | 조은지 | [WebSocket](https://github.com/Doppio1101/C4/blob/main/Week12/CSstudy%2012%EC%A3%BC%EC%B0%A8%20Web%20Socket.pdf)  |
 | | 장정훈 | [varchar와 char](https://github.com/Doppio1101/C4/blob/main/Week12/varchar%20%EC%99%80%20char.pdf) |
 | | 김신아 | [referer_referrer-policy](./Week12/referer_referrer-policy.pdf) |
+|13주차 | 조은지 | [Bean의 생명주기](https://github.com/Doppio1101/C4/blob/main/Week13/CSstudy%2013%EC%A3%BC%EC%B0%A8%20Bean%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.pdf)  |
+
+
+
 
 
 ## :smile: Member
