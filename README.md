@@ -46,7 +46,7 @@
 |13주차 | 조은지 | [Bean의 생명주기](https://github.com/Doppio1101/C4/blob/main/Week13/CSstudy%2013%EC%A3%BC%EC%B0%A8%20Bean%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.pdf)  |
 | | 임    혁 |  |
 |14주차 | 임    혁 | [Refresh Token](./Week14/Refresh%20Token.pdf)  |
-| | 김신아 |  |
+| | 김신아 | [Web_Question](./Week14/Web_Question.pdf)                    |
 | | 장정훈 |  |
 
 
