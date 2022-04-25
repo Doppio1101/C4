@@ -52,9 +52,7 @@
 |16주차 | 김신아 | [SQL_Injection](./Week16/SQL_Injection.pdf) |
 | | 장정훈 |  |
 | | 임  혁 | [Spring Security 인증과 인가](./Week16/Spring%20Security.pdf) |
-
-
-
+|17주차 | 조은지 | [Spring Filter,Interceptor, AOP/Bean의 생명주기/JVM 복습 ](https://github.com/Doppio1101/C4/blob/main/Week17/CSstudy%2017%EC%A3%BC%EC%B0%A8%20%EC%A0%95%EB%A6%AC.pdf)
 
 
 
