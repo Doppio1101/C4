@@ -55,7 +55,7 @@
 | 17주차 | 조은지 | [Spring Filter,Interceptor, AOP/Bean의 생명주기/JVM 복습 ](https://github.com/Doppio1101/C4/blob/main/Week17/CSstudy%2017%EC%A3%BC%EC%B0%A8%20%EC%A0%95%EB%A6%AC.pdf) |
 | 18주차 | 김신아 | [Dabase_Question](./Week18/Dabase_Question.pdf) |
 |  | 임  혁 |  |
-| 19주차 | 조은지 |  |
+| 19주차 | 조은지 | [Java의 GC와 SSR&CSR 복습](https://github.com/Doppio1101/C4/blob/main/Week19/CSstudy%2019%EC%A3%BC%EC%B0%A8%20Java%EC%9D%98%20GC%EC%99%80%20SSR%26CSR.pdf) |
 |  | 장정훈 |  |
 
 
