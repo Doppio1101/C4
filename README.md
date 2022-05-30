@@ -59,6 +59,8 @@
 |  | 장정훈 |  |
 | 20주차 | 김신아 | [왜password를 찾을 수 없는가](./Week20/Why_can_not_find_password.pdf) |
 | | 임혁 | [Docker](./Week20) |
+| 21주차 | 조은지 | [GraphQL](./Week21/CSstudy%2021주차%20GraphQL.pdf) |
+| | 장정훈 |  |
 
 
 
