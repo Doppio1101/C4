@@ -62,7 +62,7 @@
 | 20주차 | 김신아 | [왜password를 찾을 수 없는가](./Week20/Why_can_not_find_password.pdf) |
 | | 임  혁   | [Docker](./Week20) |
 | 21주차 | 조은지 | [GraphQL](./Week21/CSstudy%2021주차%20GraphQL.pdf) |
-| | 장정훈 | [ISO 27001의 11가지 분야]() |
+| | 장정훈 | [ISO 27001의 11가지 분야](./Week21/ISO%2027001의%2011가지%20분야.pdf) |
 | 22주차 | 김신아 | [Event_Propagation](./Week22/Event_Propagation.pdf) |
 | | 임  혁 | [Serialization](./Week22/[JAVA]%20Serialization.pdf) |
 
