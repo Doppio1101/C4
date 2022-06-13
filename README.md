@@ -62,7 +62,7 @@
 | 21주차 | 조은지 | [GraphQL](./Week21/CSstudy%2021주차%20GraphQL.pdf) |
 | | 장정훈 |  |
 | 22주차 | 김신아 | [Event_Propagation](./Week22/Event_Propagation.pdf) |
-| | 임  혁 | [Serialization](./Week22/[JAVA] Serialization.pdf) |
+| | 임  혁 | [Serialization](./Week22/[JAVA]%20Serialization.pdf) |
 
 
 
