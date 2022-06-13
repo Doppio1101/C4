@@ -58,9 +58,11 @@
 | 19주차 | 조은지 | [Java의 GC와 SSR&CSR 복습](https://github.com/Doppio1101/C4/blob/main/Week19/CSstudy%2019%EC%A3%BC%EC%B0%A8%20Java%EC%9D%98%20GC%EC%99%80%20SSR%26CSR.pdf) |
 |  | 장정훈 |  |
 | 20주차 | 김신아 | [왜password를 찾을 수 없는가](./Week20/Why_can_not_find_password.pdf) |
-| | 임혁 | [Docker](./Week20) |
+| | 임  혁   | [Docker](./Week20) |
 | 21주차 | 조은지 | [GraphQL](./Week21/CSstudy%2021주차%20GraphQL.pdf) |
 | | 장정훈 |  |
+| 22주차 | 김신아 | [Event_Propagation](./Week22/Event_Propagation.pdf) |
+| | 임  혁 | |
 
 
 
