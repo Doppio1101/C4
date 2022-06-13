@@ -50,17 +50,19 @@
 | | 장정훈 | [SQL과 NoSQL](https://github.com/Doppio1101/C4/blob/main/Week14/SQL%EA%B3%BC%20NoSQL.pdf) |
 |15주차 | 조은지 | [TDD](https://github.com/Doppio1101/C4/blob/main/Week15/CSstudy%2015%EC%A3%BC%EC%B0%A8%20TDD%20%EB%B0%A9%EB%B2%95%EB%A1%A0.pdf)  |
 |16주차 | 김신아 | [SQL_Injection](./Week16/SQL_Injection.pdf) |
-| | 장정훈 |  |
+| | 장정훈 | [Index](./Week16/Index.pdf) |
 | | 임  혁 | [Spring Security 인증과 인가](./Week16/Spring%20Security.pdf) |
 | 17주차 | 조은지 | [Spring Filter,Interceptor, AOP/Bean의 생명주기/JVM 복습 ](https://github.com/Doppio1101/C4/blob/main/Week17/CSstudy%2017%EC%A3%BC%EC%B0%A8%20%EC%A0%95%EB%A6%AC.pdf) |
+|  | 장정훈 | [Index 이어서](./Week17/INDEX이어서.md) |
+|  | 장정훈 | [GAN](./Week17/GAN.pdf) |
 | 18주차 | 김신아 | [Dabase_Question](./Week18/Dabase_Question.pdf) |
 |  | 임  혁 | [Optional](./Week18/[Java]%20Optional%20Class.md) |
 | 19주차 | 조은지 | [Java의 GC와 SSR&CSR 복습](https://github.com/Doppio1101/C4/blob/main/Week19/CSstudy%2019%EC%A3%BC%EC%B0%A8%20Java%EC%9D%98%20GC%EC%99%80%20SSR%26CSR.pdf) |
-|  | 장정훈 |  |
+|  | 장정훈 | [DCL]() (실종 상태 다시 복구 중) |
 | 20주차 | 김신아 | [왜password를 찾을 수 없는가](./Week20/Why_can_not_find_password.pdf) |
 | | 임  혁   | [Docker](./Week20) |
 | 21주차 | 조은지 | [GraphQL](./Week21/CSstudy%2021주차%20GraphQL.pdf) |
-| | 장정훈 |  |
+| | 장정훈 | [ISO 27001의 11가지 분야]() |
 | 22주차 | 김신아 | [Event_Propagation](./Week22/Event_Propagation.pdf) |
 | | 임  혁 | [Serialization](./Week22/[JAVA]%20Serialization.pdf) |
 
