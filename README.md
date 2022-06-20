@@ -65,6 +65,8 @@
 | | 장정훈 | [ISO 27001의 11가지 분야](./Week21/ISO%2027001의%2011가지%20분야.pdf) |
 | 22주차 | 김신아 | [Event_Propagation](./Week22/Event_Propagation.pdf) |
 | | 임  혁 | [Serialization](./Week22/[JAVA]%20Serialization.pdf) |
+| 23주차 | 김현수 | [callback과 Promise](https://moz1e.tistory.com/539) |
+|  | 장정훈 | [SOLID](./Week23/SOLID.pdf) |
 
 
 
